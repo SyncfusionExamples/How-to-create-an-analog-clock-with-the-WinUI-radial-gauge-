@@ -1,6 +1,6 @@
 # How to create an analog clock with the WinUI radial gauge
 
-This repository contains sample for how to create an analog clock using [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
+This repository contains sample to create an analog clock using [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13601/how-to-create-an-analog-clock-with-the-winui-radial-gauge-sfradialgauge).
 
